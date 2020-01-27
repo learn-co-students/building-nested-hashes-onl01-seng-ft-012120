@@ -20,7 +20,9 @@ def bonus
    }
   }
 
-  #code your solution here:
+  :hero => {name: "Romeo", age: "15", status: "dead"}
+  :heroine => {name: "Juliet", age: "15", status: "dead"}.
+   end
 
   
 
